@@ -1,0 +1,13 @@
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\bin\Debug\GitNoti.exe.config
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\bin\Debug\GitNoti.exe
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\bin\Debug\GitNoti.pdb
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.csproj.AssemblyReference.cache
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.Properties.Resources.resources
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.csproj.GenerateResource.cache
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.csproj.CoreCompileInputs.cache
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.exe
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.pdb
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.Design.UnderLineTextBox.resources
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.Main.resources
+C:\Users\TRIAL\gitTest\Practice\C3-VS-Practice\GitNoti\GitNoti\obj\Debug\GitNoti.Login.resources
